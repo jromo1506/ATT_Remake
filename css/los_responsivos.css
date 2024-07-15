@@ -1,0 +1,39 @@
+.slick-dots>li{
+    margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .grid_cuadro{
+        margin:20px 0px !important;
+    }
+
+    .cont-slider{
+        border: none !important;
+        height: auto !important;
+    }
+
+    .line{
+        display: none !important;
+    }
+
+    .amogus{
+        padding-top: 0 !important;
+    }
+
+    .justi{
+        text-align: justify;
+    }
+    
+    .flex-sa{
+        display: block !important;
+    }
+
+    .vaga{
+        width: 100% !important;
+    }
+
+    .cuadro{
+        margin:20px 0px !important;
+    }
+    
+}  
